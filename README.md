@@ -1,3 +1,6 @@
+![image](https://github.com/omwadera/Road-accident-analysis/assets/130866672/e10a87ff-ff0c-4e86-a2bc-ee439b85fd90)
+
+
 ## Power BI Dashboard: Road Accident Analysis
 
 Welcome to the Road Accident Analysis Power BI Dashboard! This dashboard is designed to provide stakeholders with insights into road accident trends, aiding in decision-making for road safety measures and resource allocation. Whether you're from government agencies, insurance companies, or road safety organizations, this tool offers valuable data visualization and analysis functionalities.
